@@ -120,7 +120,7 @@ var Contacts = function Contacts(_ref) {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ui_molecules_ExternalLink__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    href: "http://serafim.design/static/CV.pdf",
+    href: "/static/CV.pdf",
     download: true,
     __source: {
       fileName: _jsxFileName,
